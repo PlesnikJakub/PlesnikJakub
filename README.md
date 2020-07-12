@@ -1,5 +1,5 @@
 ### Hi there 👋
- Peter sucks 😘
+ WIP
 <!--
 **PlesnikJakub/PlesnikJakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
