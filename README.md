@@ -1,5 +1,13 @@
 ### Hi there 👋
- WIP
+
+My name is Jakub and I have been working as a software developer for 7 years. 
+
+- I do profile myself as a **full stack** developer with prefered technology stack containign **Vue.js, .Net / Php Laravel**.
+- I am phd student at VSB - Technical University of Ostrava.
+- My field of study is **Data Science** with focus on graphs/networks.
+
+
+
 <!--
 **PlesnikJakub/PlesnikJakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
