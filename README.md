@@ -9,6 +9,3 @@ My name is **Jakub** and I have been working as a software developer for 7 years
 - I have masters degree in CS and I continue as a phd student at **VSB - Technical University of Ostrava.** :man_teacher:
 - My field of study is **Data Science**:test_tube: with focus on graphs/networks. 
 - My latest work focuses on **Twitter analysis** and dependency between politics in Czech Republic.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plesnikjakub)](https://github.com/anuraghazra/github-readme-stats)
-
