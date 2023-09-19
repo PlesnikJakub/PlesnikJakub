@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plesnikjakub&count_private=true&hide=prs,issues)
-
 My name is **Jakub** and I have been working as a software developer for 8 years. 
 
 - I do profile myself as a **full stack** developer with prefered technology stack containign **Vue.js, .Net / Php Laravel**.:heart:
